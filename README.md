@@ -1,4 +1,4 @@
-## Hi, I'm Jackson 👋
+## 👋 Hi, I'm Jackson
 
 <!--
 **JackJUson/JackJUson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
