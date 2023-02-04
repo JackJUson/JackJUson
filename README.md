@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ✨ Avid React, TypeScript Frontend Developer<br>
 🤝 I enjoy making web application and websites<br>
-⚡ I’m currently learning C & C++
+⚡ I’m currently learning Svelte
 
 ## 💻 Tech Stack:
 ### Languages
