@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+CURRENTLY IN DEVELOPMENT~~
+
 ✨ Avid React, TypeScript Frontend Developer<br>
 🤝 I enjoy making web application and websites<br>
 ⚡ I’m currently learning Svelte
